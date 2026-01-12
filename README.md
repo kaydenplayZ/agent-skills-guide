@@ -6,7 +6,7 @@
   
 <h2 id="claude-code-community-guide">Agent Skills Creation Guide</h2>
 
-<mark>*A guide for creating Agent Skills for any project, based off <ins>official</ins> sources:*</mark>
+*A guide for creating Agent Skills for any project, based off <ins>official</ins> sources:*
 
 [![Agent Skills Specification](https://img.shields.io/badge/Agent_Skills_Specification-blue)](https://agentskills.io/specification)
 [![What Are Skills](https://img.shields.io/badge/What_Are_Skills-blue)](https://agentskills.io/what-are-skills)
