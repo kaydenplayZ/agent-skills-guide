@@ -6,7 +6,7 @@
   
 <h2 id="claude-code-community-guide">Agent Skills Creation Guide</h2>
 
-*A guide for creating Agent Skills for any project, based off <ins>official</ins> sources:*
+*A guide for creating Agent Skills for any project, based off <ins>official</ins> sources and community feedback:*
 
 [![Agent Skills Specification](https://img.shields.io/badge/Agent_Skills_Specification-blue)](https://agentskills.io/specification)
 [![What Are Skills](https://img.shields.io/badge/What_Are_Skills-blue)](https://agentskills.io/what-are-skills)
@@ -56,19 +56,6 @@ Agent Skills are folders of instructions, scripts, and resources that AI agents 
 - **Repeatable workflows**: Turn multi-step tasks into consistent processes
 - **Interoperability**: Same skill works across different skills-compatible agents
 
-**Supported platforms (as of 2025-2026):**
-
-- Claude (claude.ai, Claude Code, Claude API)
-- GitHub Copilot
-- Gemini CLI
-- VS Code
-- OpenCode
-- Goose
-- Letta
-- Factory
-- Amp
-- And more...
-
 ---
 
 ## Directory Structure
@@ -87,7 +74,7 @@ skill-name/
 
 - `.github/skills/skill-name/` (for repository-scoped skills)
 - `~/.skills/skill-name/` (for user-scoped skills)
-- Custom locations depending on the platform
+- Custom locations depending on the platform [github copilot] in this case.
 
 ---
 
